@@ -22,6 +22,7 @@ After running the commands to install the require tool, lets run the script
 ```
 python3 tracker.py
 ```
+
 # Windows
 **Install Python at Microsoft Store**
 
@@ -44,6 +45,7 @@ python3 tracker.py
 ```
 
 What you will see is that, a pop-up screen will appear and enter the phone of the victim and click on the search icon and the it will give you the country the victim is in and the SIM been used from the phone searched. Click on location also to get the location of the victim
+It will open a mylocation.html script, so that is up to you where you are going to open it, you can open it by HTML app from Google Play Store or VS Code in Linux or Windows
 
 # Follow up:
 **For more information Direct Message at:**
