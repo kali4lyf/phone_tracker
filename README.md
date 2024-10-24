@@ -24,12 +24,14 @@ python3 tracker.py
 ```
 # Windows
 **Install Python at Microsoft Store**
+
 After the installation, copy the tracker.py script and open notepad and paste the script and name it "tracker.py". Open Command Prompt(CMD) and type:
 ```
 python tracker.py
 ```
 # Android
 **For Termux**
+
 Type the following commands in your termux:
 ```
 apt update && apt upgrade -y
@@ -45,6 +47,8 @@ What you will see is that, a pop-up screen will appear and enter the phone of th
 
 # Follow up:
 **For more information Direct Message at:**
-Instagram: https://www.instagram.com/a.h.m.e.d.012_/
+
+Instagram: https://www.instagram.com/a.h.m.e.d.012_
+
 Telegram: https://t.me/kali_4lyf
 
