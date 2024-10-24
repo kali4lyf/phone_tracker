@@ -11,9 +11,6 @@ root.geometry("385x594+300+200")
 root.resizable(False, False)
 root.configure(bg='#96BFFF')  # Background color to light blue
 
-# Insert your OpenCage API key here
-#key = "5773a83125f34c41b5706da1294fdef0"
-
 def track():
     enter_nb = entry.get()
     number = phonenumbers.parse(enter_nb)
