@@ -10,6 +10,7 @@ root.title("Phone Number Tracker")
 root.geometry("385x594+300+200")
 root.resizable(False, False)
 root.configure(bg='#96BFFF')  # Background color to light blue
+key="YOUR_OPENCAGE_API_KEY"
 
 def track():
     enter_nb = entry.get()
