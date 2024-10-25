@@ -62,7 +62,7 @@ open_map_btn = Button(root, text="Location", width=10, cursor='hand2', bg="#EE8C
 open_map_btn.place(x=140, y=370)
 
 # Footer with Instagram-like text
-insta_page = Label(root, text="@pythonagham", bg='#96BFFF', fg='black', font='arial 10 bold italic')
+insta_page = Label(root, text="@a.h.m.e.d.012_", bg='#96BFFF', fg='black', font='arial 10 bold italic')
 insta_page.place(x=135, y=550)
 
 root.mainloop()
